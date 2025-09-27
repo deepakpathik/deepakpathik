@@ -16,23 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=deepakpathik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/deepakpathik/deepakpathik/tree/master/0100-same-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/deepakpathik/deepakpathik/tree/master/0100-same-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/deepakpathik/deepakpathik/tree/master/0100-same-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/deepakpathik/deepakpathik/tree/master/0100-same-tree) |
-<!---LeetCode Topics End-->
