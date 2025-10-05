@@ -1,6 +1,8 @@
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm Deepak Pathik</h1>
 <h3 align="center">Full-Stack Developer</h3>
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRiaXQybXdrdGtsMG1rdmlqdHFxMHc2d2Q4NWpxM3g5d3E0dG5nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Banner" width="100%" />
+
 # 💫 About Me:
 🎓 B.Tech CSE student at Newton School of Technology x Ajeenkya DY Patil University, Pune<br>🤖 Currently working on Grocery AI Order Taking App<br>🌱 Exploring Web Development<br>✨ Love building projects that merge AI with real-world applications<br>🎯 Goal: To become a versatile AI-driven full-stack innovator
 
