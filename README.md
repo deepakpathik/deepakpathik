@@ -20,6 +20,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=deepakpathik&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakpathik&theme=react-dark"/>
+</p>
+
 ## 🐍 GitHub Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakpathik/deepakpathik/output/github-contribution-grid-snake-dark.svg">
