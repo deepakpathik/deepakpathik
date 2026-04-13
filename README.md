@@ -296,24 +296,21 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api?username=deepakpathik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+<img src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api?username=deepakpathik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
   width="495"
   alt="GitHub Stats"
 />
 
 <br/>
 
-<img
-  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api/top-langs/?username=deepakpathik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+<img src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api/top-langs/?username=deepakpathik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
   width="495"
   alt="Top Languages"
 />
 
 <br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=deepakpathik&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E"
+<img src="https://streak-stats.demolab.com?user=deepakpathik&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E"
   width="495"
   alt="GitHub Streak"
 />
