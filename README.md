@@ -24,7 +24,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakpathik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://deepakpathik.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://deepakpathik.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakpathik2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakpathik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakpathik)
@@ -53,6 +53,7 @@ class DeepakPathik:
     currently = [
         "AI Agent Developer Intern  @ Apogee Tech Global Inc. (Feb 2026 – Present)",
         "GSoC 2026 Contributor      @ Linux Kernel Org — EROFS Filesystem",
+        "Summer of Bitcoin 2026     @ Developer Track — Reached Week 3 Challenge Round",
     ]
 
     open_source = [
@@ -125,6 +126,30 @@ In `erofs_metamgr_init()`, `erofs_tmpfile()` stores a file descriptor in `m2gr->
   <img src="https://img.shields.io/badge/Project_Size-350_Hours-0EA5E9?style=flat-square"/>
   <img src="https://img.shields.io/badge/Algorithms-LZ4_·_LZMA_·_DEFLATE_·_Zstd-F97316?style=flat-square"/>
   <img src="https://img.shields.io/badge/Testing-TSAN_%2F_ASAN-EC4899?style=flat-square"/>
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/bitcoin/F7931A" width="20" height="20" valign="middle"/> Summer of Bitcoin 2026 — Developer Track
+
+> **Program:** Summer of Bitcoin 2026 · Competitive Bitcoin open-source internship
+> **Track:** Developer Track · Challenge Round (Feb 16 – Mar 15, 2026)
+
+One hard Bitcoin project challenge per week, evaluated against a competitive percentile cutoff. Only top-scoring candidates advance each week.
+
+| Round | Status | Period |
+|-------|--------|--------|
+| Challenge Round Invite | ✅ Qualified | Feb 16, 2026 |
+| Week 1 Challenge | ✅ Passed | Feb 26, 2026 |
+| Week 2 Challenge | ✅ Passed | Mar 9, 2026 |
+| Week 3 Challenge | Eliminated | Mar 21, 2026 |
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-Developer_Track-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Week_1-Passed_✓-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Week_2-Passed_✓-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Week_3-Reached-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Grokking_Bitcoin-Studied-F97316?style=flat-square"/>
 </div>
 
 ---
@@ -343,6 +368,13 @@ In `erofs_metamgr_init()`, `erofs_tmpfile()` stores a file descriptor in `m2gr->
       <img src="https://img.shields.io/badge/AI_Agent_Developer_Intern-Apogee_Tech_Global_Inc.-22C55E?style=flat-square&logo=google&logoColor=white"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Feb_2026–Present-Hybrid_Bangalore-0f172a?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Summer_of_Bitcoin_2026-Developer_Track_·_Reached_Week_3-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Feb_2026–Mar_2026-Competitive_Challenge_Round-0f172a?style=flat-square"/>
     </td>
   </tr>
   <tr>
