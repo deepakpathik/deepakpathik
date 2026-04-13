@@ -135,7 +135,6 @@ In `erofs_metamgr_init()`, `erofs_tmpfile()` stores a file descriptor in `m2gr->
 |---------|-------|--------|
 | `fsck.erofs` Multi-threaded Decompression | C · POSIX · erofs-utils · Linux Kernel | ![ACTIVE](https://img.shields.io/badge/GSoC_2026-F97316?style=flat-square) |
 | SaaS AI Agent Platform | Docker · VPS · OpenClaw · SaaS Architecture | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square) |
-| Grocery AI Order-Taking App | React Native · Node.js · LangChain · Gemini | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square) |
 | Agentic RAG Pipelines | LangGraph · Pinecone · Google Embeddings | ![EXPLORING](https://img.shields.io/badge/EXPLORING-0EA5E9?style=flat-square) |
 
 ---
