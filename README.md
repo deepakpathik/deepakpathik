@@ -1,35 +1,373 @@
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="30px" width="30px"> I'm Deepak Pathik</h1>
-<h3 align="center">Full-Stack Developer</h3>
-<h3 align="center">Open-Source Contributor</h3>
+<div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRiaXQybXdrdGtsMG1rdmlqdHFxMHc2d2Q4NWpxM3g5d3E0dG5nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Banner" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Deepak%20Pathik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=55&descSize=18"
+  width="100%"
+  alt="Header Banner"
+/>
 
-# 💫 About Me:
-🎓 B.Tech CSE student at Newton School of Technology x Ajeenkya DY Patil University, Pune<br>🤖 Currently working on Grocery AI Order Taking App<br>🌱 Exploring Web Development<br>✨ Love building projects that merge AI with real-world applications<br>🎯 Goal: To become a versatile AI-driven full-stack innovator
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+AI-Powered+Full-Stack+Applications;Contributing+to+Linux+Kernel+%E2%80%94+GSoC+2026;Engineering+RAG+%26+Agentic+AI+Pipelines;Merging+Systems+Programming+with+Modern+Web"
+  alt="Typing SVG"
+/>
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deepsvibes2k5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepakpathik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakpathik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakpathik2005@gmail.com) 
+<img src="https://komarev.com/ghpvc/?username=deepakpathik&label=Profile+Views&color=22C55E&style=flat-square&abbreviated=true" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/deepakpathik?label=Followers&style=flat-square&color=0EA5E9&labelColor=0f172a" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GSoC_2026-Selected_Candidate-F97316?style=flat-square&logo=google&logoColor=white" alt="GSoC 2026"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_To_Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepakpathik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepakpathik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpathik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakpathik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://deepakpathik.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakpathik2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakpathik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakpathik)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepakpathik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakpathik&theme=react-dark"/>
-</p>
+## <img src="https://cdn.simpleicons.org/files/22C55E" width="20" height="20" valign="middle"/> About
 
-## 🐍 GitHub Contribution Snake:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakpathik/deepakpathik/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakpathik/deepakpathik/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepakpathik/deepakpathik/output/github-contribution-grid-snake.svg">
-</picture>
+```python
+class DeepakPathik:
+    role     = "Full-Stack Developer & AI Engineer"
+    location = "Pune, Maharashtra, India"
+    school   = "Newton School of Technology (ADYPU) — B.Tech AI & ML (2024–2028)"
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    specialization = [
+        "MERN Stack · Next.js · REST APIs · Real-Time Systems",
+        "AI-Powered Applications & Agentic Pipelines (RAG, LangChain)",
+        "Linux Kernel Systems Programming (C, POSIX Threads)",
+        "Mobile Development with React Native & Expo",
+    ]
+
+    currently = [
+        "AI Agent Developer Intern  @ Apogee Tech Global Inc. (Feb 2026 – Present)",
+        "GSoC 2026 Contributor      @ Linux Kernel Org — EROFS Filesystem",
+    ]
+
+    open_source = [
+        "Linux Kernel erofs-utils  — Multi-threaded fsck.erofs decompression",
+        "Turborepo                 — Monorepo tooling contributions",
+        "GoFr                      — Go application framework contributions",
+    ]
+
+    open_to = "Full-Stack AI Engineering · Systems Programming · Open-Source Collaboration"
+```
+
+---
+
+## <img src="https://cdn.simpleicons.org/linux/22C55E" width="20" height="20" valign="middle"/> Google Summer of Code 2026 — Linux Kernel
+
+> **Project:** Multi-threaded Decompression Support in `fsck.erofs`
+> **Organisation:** Linux Kernel — EROFS Filesystem
+> **Mentors:** Yifan Zhao `@SToPire`, Chunhai Guo `@speedan1`, Gao Xiang `@hsiangkao`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>The Problem</b><br/>
+      <code>fsck.erofs</code> runs all decompression on a single thread — leaving multi-core CPUs massively underutilized on production Android images, OTA pipelines, and container runtimes.
+    </td>
+    <td width="50%" valign="top">
+      <b>The Solution</b><br/>
+      Wire the existing <code>erofs_workqueue</code> thread pool into the decompression path, enabling N pclusters to decompress concurrently across N worker threads with a new <code>--jobs=N</code> flag.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Key Technical Insight</b><br/>
+      <code>z_erofs_decompress()</code> operates on a self-contained <code>z_erofs_decompress_req</code> — no shared mutable state. Output written via <code>pwrite()</code> to non-overlapping offsets. Zero inter-thread locks during decompression.
+    </td>
+    <td valign="top">
+      <b>Expected Impact</b><br/>
+      3–4× extraction speedup on 4-core systems for CPU-bound images. Mirrors parallel decompression already present in the Linux kernel EROFS driver, closing the gap in userspace tools.
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSIX_Threads-pthreads-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Project_Size-350_Hours-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-LZ4_·_LZMA_·_DEFLATE_·_Zstd-F97316?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Testing-TSAN_%2F_ASAN-EC4899?style=flat-square"/>
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/todoist/22C55E" width="20" height="20" valign="middle"/> Currently Building
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| `fsck.erofs` Multi-threaded Decompression | C · POSIX · erofs-utils · Linux Kernel | ![ACTIVE](https://img.shields.io/badge/GSoC_2026-F97316?style=flat-square) |
+| SaaS AI Agent Platform | Docker · VPS · OpenClaw · SaaS Architecture | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square) |
+| Grocery AI Order-Taking App | React Native · Node.js · LangChain · Gemini | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square) |
+| Agentic RAG Pipelines | LangGraph · Pinecone · Google Embeddings | ![EXPLORING](https://img.shields.io/badge/EXPLORING-0EA5E9?style=flat-square) |
+
+---
+
+## <img src="https://cdn.simpleicons.org/stackblitz/22C55E" width="20" height="20" valign="middle"/> Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="130"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css&theme=dark" height="36" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI &amp; ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/LangGraph-F97316?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/RAG_Pipelines-22C55E?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/Pinecone-0EA5E9?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/AI_Safety_Guardrails-EC4899?style=flat-square" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs&theme=dark" height="36" alt="Backend"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/REST_APIs-22C55E?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" height="28"/>
+      <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend &amp; Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark" height="36" alt="Frontend"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="28"/>
+      <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase&theme=dark" height="36" alt="Databases"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Prisma_ORM-3982CE?style=flat-square&logo=prisma&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,git,githubactions&theme=dark" height="36" alt="Cloud and DevOps"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/VPS-SaaS_Arch-22C55E?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" height="28"/>
+      <img src="https://img.shields.io/badge/POSIX_Threads-22C55E?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/EROFS_Filesystem-0EA5E9?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/Atomics_%2F_Mutexes-F97316?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/TSAN_%2F_ASAN-EC4899?style=flat-square" height="28"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://cdn.simpleicons.org/github/22C55E" width="20" height="20" valign="middle"/> Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/deepakpathik/askmynotes">AskMyNotes — AI Study Assistant</a></h3>
+      <p>Corrective RAG (CRAG) pipeline · semantic search with Pinecone · real-time chat + voice (STT/TTS) · quiz generation · persistent memory via LangGraph</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pinecone-0EA5E9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/deepakpathik/askmynotes"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/deepakpathik/web-rag">WEB-RAG AI Research Assistant</a></h3>
+      <p>Tool-augmented agent · real-time web search + LLM synthesis · Google Custom Search API · graceful handling of insufficient data</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/deepakpathik/web-rag"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/deepakpathik/adaptive-fitness-ai">Adaptive Fitness AI Chatbot</a></h3>
+      <p>Mobile-first AI coaching · context-aware conversations · session memory + prompt orchestration · AI safety guardrails filtering non-fitness queries</p>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/deepakpathik/adaptive-fitness-ai"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/deepakpathik">fsck.erofs Multi-threaded Decompression</a></h3>
+      <p>GSoC 2026 · Linux Kernel · EROFS userspace tools · erofs_workqueue · pcluster-level parallelism · POSIX threads · 3–4× speedup target</p>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/EROFS-0EA5E9?style=flat-square"/>
+      <br/><br/>
+      <a href="https://lore.kernel.org/linux-erofs/"><img src="https://img.shields.io/badge/Mailing_List-linux--erofs-F97316?style=flat-square&logo=linux&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/deepakpathik?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/githubactions/22C55E" width="20" height="20" valign="middle"/> GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=deepakpathik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+  width="495"
+  alt="GitHub Stats"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpathik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+  width="495"
+  alt="Top Languages"
+/>
+
+<br/>
+
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=deepakpathik&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E&cache_seconds=86400"
+  width="495"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=deepakpathik&bg_color=1a1b27&color=22C55E&line=0EA5E9&point=F97316&area=true&hide_border=true&radius=8"
+  width="100%"
+  alt="Activity Graph"
+/>
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/githubsponsors/22C55E" width="20" height="20" valign="middle"/> GitHub Trophies
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=deepakpathik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/speedtest/22C55E" width="20" height="20" valign="middle"/> Key Metrics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GSoC_2026-Linux_Kernel_Org-F97316?style=for-the-badge&labelColor=0f172a" alt="GSoC"/>
+<img src="https://img.shields.io/badge/Speedup_Target-3–4×_on_4_Cores-22C55E?style=for-the-badge&labelColor=0f172a" alt="Speedup"/>
+<img src="https://img.shields.io/badge/Project_Size-350_Hours-0EA5E9?style=for-the-badge&labelColor=0f172a" alt="Hours"/>
+<img src="https://img.shields.io/badge/Open_Source-Turborepo_%26_GoFr-EC4899?style=for-the-badge&labelColor=0f172a" alt="OSS"/>
+<img src="https://img.shields.io/badge/Game_Jam-1st_Place_Hyperlume-FCC624?style=for-the-badge&labelColor=0f172a" alt="Game Jam"/>
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/linkedin/22C55E" width="20" height="20" valign="middle"/> Experience & Open-Source
+
+<table width="100%">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/GSoC_2026_Contributor-Linux_Kernel_%2F_EROFS-F97316?style=flat-square&logo=linux&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/May_2026–Sep_2026-Remote-0f172a?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/AI_Agent_Developer_Intern-Apogee_Tech_Global_Inc.-22C55E?style=flat-square&logo=google&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Feb_2026–Present-Hybrid_Bangalore-0f172a?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Open_Source_Contributor-Turborepo_%26_GoFr-0EA5E9?style=flat-square&logo=github&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Large--Scale_Codebases-Ongoing-0f172a?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://cdn.simpleicons.org/github/22C55E" width="20" height="20" valign="middle"/> Contribution Graph
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/deepakpathik/deepakpathik/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/deepakpathik/deepakpathik/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/deepakpathik/deepakpathik/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/maildotru/22C55E" width="20" height="20" valign="middle"/> Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakpathik)
+[![Email](https://img.shields.io/badge/Email-deepakpathik2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakpathik2005@gmail.com)
+[![Mailing List](https://img.shields.io/badge/linux--erofs-Mailing_List-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://lore.kernel.org/linux-erofs/)
+
+</div>
+
+---
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
