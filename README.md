@@ -7,7 +7,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+AI-Powered+Full-Stack+Applications;Contributing+to+Linux+Kernel+%E2%80%94+GSoC+2026;Engineering+RAG+%26+Agentic+AI+Pipelines;Merging+Systems+Programming+with+Modern+Web"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Patch+Merged+into+Linux+Kernel+erofs-utils;GSoC+2026+%E2%80%94+Linux+Kernel+EROFS+Filesystem;Building+AI-Powered+Full-Stack+Applications;Engineering+RAG+%26+Agentic+AI+Pipelines"
   alt="Typing SVG"
 />
 
@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/deepakpathik?label=Followers&style=flat-square&color=0EA5E9&labelColor=0f172a" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GSoC_2026-Selected_Candidate-F97316?style=flat-square&logo=google&logoColor=white" alt="GSoC 2026"/>
+<img src="https://img.shields.io/badge/GSoC_2026-Patch_Merged_✓-22C55E?style=flat-square&logo=linux&logoColor=white" alt="GSoC 2026 Patch Merged"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 
@@ -56,7 +56,8 @@ class DeepakPathik:
     ]
 
     open_source = [
-        "Linux Kernel erofs-utils  — Multi-threaded fsck.erofs decompression",
+        "Linux Kernel erofs-utils  — Patch MERGED: fix fd leak in erofs_metamgr_init() [d6d0b8a]",
+        "Linux Kernel erofs-utils  — GSoC 2026: Multi-threaded fsck.erofs decompression",
         "Turborepo                 — Monorepo tooling contributions",
         "GoFr                      — Go application framework contributions",
     ]
@@ -71,6 +72,29 @@ class DeepakPathik:
 > **Project:** Multi-threaded Decompression Support in `fsck.erofs`
 > **Organisation:** Linux Kernel — EROFS Filesystem
 > **Mentors:** Yifan Zhao `@SToPire`, Chunhai Guo `@speedan1`, Gao Xiang `@hsiangkao`
+
+### ✅ Merged Patch — Pre-GSoC Upstream Contribution
+
+> **[`erofs-utils: lib: fix fd leak in erofs_metamgr_init()`](https://github.com/erofs/erofs-utils/commit/d6d0b8a31354104ede464568fc1253c51b9ec36c)**
+> Commit `d6d0b8a` · authored by `deepakpathik` · signed-off by `hsiangkao` (Gao Xiang, core EROFS maintainer)
+
+In `erofs_metamgr_init()`, `erofs_tmpfile()` stores a file descriptor in `m2gr->vf.fd`. If the subsequent `erofs_buffer_init()` call fails, the function returns `-ENOMEM` without closing that fd — leaking it permanently. The caller `erofs_metadata_init()` only frees the `m2gr` struct at `err_free`, leaving no remaining reference to close the fd.
+
+**Fix:** Mirror the success path's `erofs_io_close(&m2gr->vf)` call on the error path before returning.
+
+```diff
+  if (!m2gr->bmgr) {
++     erofs_io_close(&m2gr->vf);
+      return -ENOMEM;
+  }
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/File-lib%2Fmetabox.c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/+3_−1_lines-Merged-22C55E?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Signed--off--by-hsiangkao-F97316?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mailing_List-lore.kernel.org%2Fr%2F202604021...-0EA5E9?style=flat-square"/>
+</div>
 
 <table width="100%">
   <tr>
@@ -223,13 +247,14 @@ class DeepakPathik:
       <a href="https://github.com/deepakpathik/adaptive-fitness-ai"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/deepakpathik">fsck.erofs Multi-threaded Decompression</a></h3>
-      <p>GSoC 2026 · Linux Kernel · EROFS userspace tools · erofs_workqueue · pcluster-level parallelism · POSIX threads · 3–4× speedup target</p>
+      <h3><a href="https://github.com/erofs/erofs-utils/commit/d6d0b8a31354104ede464568fc1253c51b9ec36c">erofs-utils — Upstream Kernel Patch</a></h3>
+      <p>✅ <b>MERGED</b> · Fix fd leak in <code>erofs_metamgr_init()</code> · commit <code>d6d0b8a</code> · signed-off by core maintainer <code>hsiangkao</code> · +3 −1 lines in <code>lib/metabox.c</code></p>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/EROFS-0EA5E9?style=flat-square"/>
       <br/><br/>
-      <a href="https://lore.kernel.org/linux-erofs/"><img src="https://img.shields.io/badge/Mailing_List-linux--erofs-F97316?style=flat-square&logo=linux&logoColor=white"/></a>
+      <a href="https://github.com/erofs/erofs-utils/commit/d6d0b8a31354104ede464568fc1253c51b9ec36c"><img src="https://img.shields.io/badge/View_Commit-d6d0b8a-22C55E?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://lore.kernel.org/r/20260402112645.49711-1-deepakpathik2005@gmail.com"><img src="https://img.shields.io/badge/Mailing_List-linux--erofs-F97316?style=flat-square&logo=linux&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -280,22 +305,11 @@ class DeepakPathik:
 
 ---
 
-## <img src="https://cdn.simpleicons.org/githubsponsors/22C55E" width="20" height="20" valign="middle"/> GitHub Trophies
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=deepakpathik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</div>
-
----
-
 ## <img src="https://cdn.simpleicons.org/speedtest/22C55E" width="20" height="20" valign="middle"/> Key Metrics
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Kernel_Patch-MERGED_d6d0b8a-22C55E?style=for-the-badge&labelColor=0f172a" alt="Patch Merged"/>
 <img src="https://img.shields.io/badge/GSoC_2026-Linux_Kernel_Org-F97316?style=for-the-badge&labelColor=0f172a" alt="GSoC"/>
 <img src="https://img.shields.io/badge/Speedup_Target-3–4×_on_4_Cores-22C55E?style=for-the-badge&labelColor=0f172a" alt="Speedup"/>
 <img src="https://img.shields.io/badge/Project_Size-350_Hours-0EA5E9?style=for-the-badge&labelColor=0f172a" alt="Hours"/>
@@ -309,6 +323,15 @@ class DeepakPathik:
 ## <img src="https://cdn.simpleicons.org/linkedin/22C55E" width="20" height="20" valign="middle"/> Experience & Open-Source
 
 <table width="100%">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Patch_MERGED-erofs--utils_lib%2Fmetabox.c-22C55E?style=flat-square&logo=linux&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Commit_d6d0b8a-Signed_off_by_hsiangkao-0f172a?style=flat-square"/>
+      &nbsp;
+      <a href="https://github.com/erofs/erofs-utils/commit/d6d0b8a31354104ede464568fc1253c51b9ec36c"><img src="https://img.shields.io/badge/View-Commit-F97316?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/GSoC_2026_Contributor-Linux_Kernel_%2F_EROFS-F97316?style=flat-square&logo=linux&logoColor=white"/>
