@@ -313,7 +313,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 <br/>
 
 <img
-  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api/streak?username=deepakpathik&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E&cache_seconds=86400"
+  src="https://streak-stats.demolab.com?user=deepakpathik&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E"
   width="495"
   alt="GitHub Streak"
 />
