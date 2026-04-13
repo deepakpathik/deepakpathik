@@ -24,7 +24,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakpathik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://deepakpathik.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://deepakpathik.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakpathik2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakpathik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakpathik)
@@ -297,7 +297,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=deepakpathik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api?username=deepakpathik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
   width="495"
   alt="GitHub Stats"
 />
@@ -305,7 +305,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpathik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api/top-langs/?username=deepakpathik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
   width="495"
   alt="Top Languages"
 />
@@ -313,7 +313,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 <br/>
 
 <img
-  src="https://nirzak-streak-stats.vercel.app/?user=deepakpathik&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E&cache_seconds=86400"
+  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api/streak?username=deepakpathik&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E&cache_seconds=86400"
   width="495"
   alt="GitHub Streak"
 />
