@@ -33,7 +33,7 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" alt="Developer Banner" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRiaXQybXdrdGtsMG1rdmlqdHFxMHc2d2Q4NWpxM3g5d3E0dG5nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Developer Banner" width="100%" />
 
 ## <img src="https://cdn.simpleicons.org/files/22C55E" width="20" height="20" valign="middle"/> About
 
