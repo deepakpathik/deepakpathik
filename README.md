@@ -21,7 +21,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakpathik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://deepakpathik.tech)
