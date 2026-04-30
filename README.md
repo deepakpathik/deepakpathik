@@ -7,7 +7,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Patch+Merged+into+Linux+Kernel+erofs-utils;GSoC+2026+Applicant+%E2%80%94+Linux+Kernel+EROFS;Building+AI-Powered+Full-Stack+Applications;Engineering+RAG+%26+Agentic+AI+Pipelines"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Patch+Merged+into+Linux+Kernel+erofs-utils;GSoC+2026+Proposal+%E2%80%94+Ranked+%231+by+Org;Building+AI-Powered+Full-Stack+Applications;Engineering+RAG+%26+Agentic+AI+Pipelines"
   alt="Typing SVG"
 />
 
@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/deepakpathik?label=Followers&style=flat-square&color=0EA5E9&labelColor=0f172a" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GSoC_2026-Proposal_Submitted-F97316?style=flat-square&logo=google&logoColor=white" alt="GSoC 2026"/>
+<img src="https://img.shields.io/badge/GSoC_2026-Ranked_%231_by_Org-F97316?style=flat-square&logo=google&logoColor=white" alt="GSoC 2026"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 
@@ -54,13 +54,13 @@ class DeepakPathik:
 
     currently = [
         "AI Agent Developer Intern  @ Apogee Tech Global Inc. (Feb 2026 – Present)",
-        "GSoC 2026 Applicant        @ Linux Kernel Org — EROFS Filesystem (Results: May 8)",
+        "GSoC 2026                  @ Linux Kernel EROFS — Ranked #1 by org, not selected by Google",
         "Summer of Bitcoin 2026     @ Developer Track — Reached Week 3 Challenge Round",
     ]
 
     open_source = [
         "Linux Kernel erofs-utils  — Patch MERGED: fix fd leak in erofs_metamgr_init() [d6d0b8a]",
-        "Linux Kernel erofs-utils  — GSoC 2026: Multi-threaded fsck.erofs decompression",
+        "Linux Kernel erofs-utils  — GSoC 2026: Multi-threaded fsck.erofs decompression (Ranked #1)",
         "Turborepo                 — Monorepo tooling contributions",
         "GoFr                      — Go application framework contributions",
     ]
@@ -70,14 +70,20 @@ class DeepakPathik:
 
 ---
 
-## <img src="https://cdn.simpleicons.org/linux/22C55E" width="20" height="20" valign="middle"/> Google Summer of Code 2026 — Proposal Submitted
+## <img src="https://cdn.simpleicons.org/linux/22C55E" width="20" height="20" valign="middle"/> Google Summer of Code 2026 — EROFS Filesystem
 
 > **Project:** Multi-threaded Decompression Support in `fsck.erofs`
 > **Organisation:** Linux Kernel — EROFS Filesystem
 > **Mentors:** Yifan Zhao `@SToPire`, Chunhai Guo `@speedan1`, Gao Xiang `@hsiangkao`
-> **Results:** May 8, 2026
+> **Org Ranking:** #1 · Not selected by Google
 
-### ✅ Merged Patch — Pre-GSoC Upstream Contribution
+<div align="center">
+  <img src="https://img.shields.io/badge/Org_Ranking-%231_by_EROFS-22C55E?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Decision-Not_Selected-6B7280?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pre--GSoC_Patch-MERGED_✓-22C55E?style=flat-square&logo=git&logoColor=white"/>
+</div>
+
+### ✅ Merged Patch — Upstream Kernel Contribution
 
 > **[`erofs-utils: lib: fix fd leak in erofs_metamgr_init()`](https://github.com/erofs/erofs-utils/commit/d6d0b8a31354104ede464568fc1253c51b9ec36c)**
 > Commit `d6d0b8a` · authored by `deepakpathik` · signed-off by `hsiangkao` (Gao Xiang, core EROFS maintainer)
@@ -161,7 +167,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| `fsck.erofs` Multi-threaded Decompression | C · POSIX · erofs-utils · Linux Kernel | ![PROPOSED](https://img.shields.io/badge/GSoC_Proposed-F97316?style=flat-square) |
+| `fsck.erofs` Multi-threaded Decompression | C · POSIX · erofs-utils · Linux Kernel | ![ONGOING](https://img.shields.io/badge/Independent-22C55E?style=flat-square) |
 | SaaS AI Agent Platform | Docker · VPS · OpenClaw · SaaS Architecture | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square) |
 | Agentic RAG Pipelines | LangGraph · Pinecone · Google Embeddings | ![EXPLORING](https://img.shields.io/badge/EXPLORING-0EA5E9?style=flat-square) |
 
@@ -335,7 +341,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 <div align="center">
 
 <img src="https://img.shields.io/badge/Kernel_Patch-MERGED_d6d0b8a-22C55E?style=for-the-badge&labelColor=0f172a" alt="Patch Merged"/>
-<img src="https://img.shields.io/badge/GSoC_2026-Proposal_Submitted-F97316?style=for-the-badge&labelColor=0f172a" alt="GSoC"/>
+<img src="https://img.shields.io/badge/GSoC_2026-Ranked_%231_by_Org-F97316?style=for-the-badge&labelColor=0f172a" alt="GSoC"/>
 <img src="https://img.shields.io/badge/Speedup_Target-3–4×_on_4_Cores-22C55E?style=for-the-badge&labelColor=0f172a" alt="Speedup"/>
 <img src="https://img.shields.io/badge/Project_Size-350_Hours-0EA5E9?style=for-the-badge&labelColor=0f172a" alt="Hours"/>
 <img src="https://img.shields.io/badge/Open_Source-Turborepo_%26_GoFr-EC4899?style=for-the-badge&labelColor=0f172a" alt="OSS"/>
@@ -359,11 +365,9 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/GSoC_2026_Applicant-Linux_Kernel_%2F_EROFS-F97316?style=flat-square&logo=linux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GSoC_2026-Ranked_%231_by_EROFS_Org-F97316?style=flat-square&logo=linux&logoColor=white"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/Results_May_8_2026-Proposal_Submitted-0f172a?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/May_2026–Sep_2026-Remote-0f172a?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Not_Selected_by_Google-6B7280?style=flat-square&logo=google&logoColor=white"/>
     </td>
   </tr>
   <tr>
