@@ -42,7 +42,7 @@
 ```python
 class DeepakPathik:
     role     = "Full-Stack Developer & AI Engineer"
-    location = "Pune, Maharashtra, India"
+    location = "Mumbai, Maharashtra, India"
     school   = "Newton School of Technology (ADYPU) — B.Tech AI & ML (2024–2028)"
 
     specialization = [
@@ -53,9 +53,13 @@ class DeepakPathik:
     ]
 
     currently = [
-        "AI Agent Developer Intern  @ Apogee Tech Global Inc. (Feb 2026 – Present)",
-        "GSoC 2026                  @ Linux Kernel EROFS — Ranked #1 by org, not selected by Google",
-        "Summer of Bitcoin 2026     @ Developer Track — Reached Week 3 Challenge Round",
+        "AI & Data Science Intern    @ AxionConnect Infosolutions Pvt. Ltd (Jun 2026 – Present)",
+        "GSoC 2026                   @ Linux Kernel EROFS — Ranked #1 by org, not selected by Google",
+        "Summer of Bitcoin 2026      @ Developer Track — Reached Week 3 Challenge Round",
+    ]
+
+    previously = [
+        "AI Agent Developer Intern   @ Apogee Tech Global Inc. (Feb 2026 – May 2026)",
     ]
 
     open_source = [
@@ -167,8 +171,8 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 
 | Project | Stack | Status |
 |---------|-------|--------|
+| B2B Cold Email Outreach Automation Pipeline | n8n · OpenAI · PostgreSQL · SMTP · Apollo.io | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square) |
 | `fsck.erofs` Multi-threaded Decompression | C · POSIX · erofs-utils · Linux Kernel | ![ONGOING](https://img.shields.io/badge/Independent-22C55E?style=flat-square) |
-| SaaS AI Agent Platform | Docker · VPS · OpenClaw · SaaS Architecture | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square) |
 | Agentic RAG Pipelines | LangGraph · Pinecone · Google Embeddings | ![EXPLORING](https://img.shields.io/badge/EXPLORING-0EA5E9?style=flat-square) |
 
 ---
@@ -229,6 +233,15 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
       &nbsp;
       <img src="https://img.shields.io/badge/VPS-SaaS_Arch-22C55E?style=flat-square" height="28"/>
       <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/SMTP_Rotation-22C55E?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/Apollo.io-F97316?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/Workflow_Automation-0EA5E9?style=flat-square" height="28"/>
     </td>
   </tr>
   <tr>
@@ -356,6 +369,13 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 <table width="100%">
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/AI_%26_Data_Science_Intern-AxionConnect_Infosolutions-22C55E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Jun_2026–Present-Mumbai_·_On--site-0f172a?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://img.shields.io/badge/Patch_MERGED-erofs--utils_lib%2Fmetabox.c-22C55E?style=flat-square&logo=linux&logoColor=white"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Commit_d6d0b8a-Signed_off_by_hsiangkao-0f172a?style=flat-square"/>
@@ -372,9 +392,9 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/AI_Agent_Developer_Intern-Apogee_Tech_Global_Inc.-22C55E?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI_Agent_Developer_Intern-Apogee_Tech_Global_Inc.-6B7280?style=flat-square&logo=google&logoColor=white"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/Feb_2026–Present-Hybrid_Bangalore-0f172a?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Feb_2026–May_2026-Hybrid_Bangalore-0f172a?style=flat-square"/>
     </td>
   </tr>
   <tr>
