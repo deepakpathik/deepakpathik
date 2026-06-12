@@ -59,7 +59,7 @@ class DeepakPathik:
     ]
 
     previously = [
-        "AI Agent Developer Intern   @ Apogee Tech Global Inc. (Feb 2026 – May 2026)",
+        "AI Agent Developer Intern   @ Apogee Tech Global Inc. (March 2026 – May 2026)",
     ]
 
     open_source = [
