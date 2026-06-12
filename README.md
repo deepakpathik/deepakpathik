@@ -394,7 +394,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
     <td>
       <img src="https://img.shields.io/badge/AI_Agent_Developer_Intern-Apogee_Tech_Global_Inc.-6B7280?style=flat-square&logo=google&logoColor=white"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/Feb_2026–May_2026-Hybrid_Bangalore-0f172a?style=flat-square"/>
+      <img src="https://img.shields.io/badge/March_2026–May_2026-Hybrid_Bangalore-0f172a?style=flat-square"/>
     </td>
   </tr>
   <tr>
