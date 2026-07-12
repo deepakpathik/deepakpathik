@@ -7,7 +7,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Patch+Merged+into+Linux+Kernel+erofs-utils;GSoC+2026+Proposal+%E2%80%94+Ranked+%231+by+Org;Building+AI-Powered+Full-Stack+Applications;Engineering+RAG+%26+Agentic+AI+Pipelines"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Patch+Merged+into+Linux+Kernel+erofs-utils;GSoC+2026+Proposal+%E2%80%94+Linux+Kernel+EROFS;Building+AI-Powered+Full-Stack+Applications;Engineering+RAG+%26+Agentic+AI+Pipelines"
   alt="Typing SVG"
 />
 
@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/deepakpathik?label=Followers&style=flat-square&color=0EA5E9&labelColor=0f172a" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GSoC_2026-Ranked_%231_by_Org-F97316?style=flat-square&logo=google&logoColor=white" alt="GSoC 2026"/>
+<img src="https://img.shields.io/badge/GSoC_2026-Proposal_Submitted-F97316?style=flat-square&logo=google&logoColor=white" alt="GSoC 2026"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 
@@ -54,7 +54,7 @@ class DeepakPathik:
 
     currently = [
         "AI & Data Science Intern    @ AxionConnect Infosolutions Pvt. Ltd (Jun 2026 – Present)",
-        "GSoC 2026                   @ Linux Kernel EROFS — Ranked #1 by org, not selected by Google",
+        "GSoC 2026                   @ Linux Kernel EROFS — Proposal submitted, not selected by Google",
         "Summer of Bitcoin 2026      @ Developer Track — Reached Week 3 Challenge Round",
     ]
 
@@ -64,7 +64,7 @@ class DeepakPathik:
 
     open_source = [
         "Linux Kernel erofs-utils  — Patch MERGED: fix fd leak in erofs_metamgr_init() [d6d0b8a]",
-        "Linux Kernel erofs-utils  — GSoC 2026: Multi-threaded fsck.erofs decompression (Ranked #1)",
+        "Linux Kernel erofs-utils  — GSoC 2026 proposal: Multi-threaded fsck.erofs decompression",
         "Turborepo                 — Monorepo tooling contributions",
         "GoFr                      — Go application framework contributions",
     ]
@@ -79,10 +79,10 @@ class DeepakPathik:
 > **Project:** Multi-threaded Decompression Support in `fsck.erofs`
 > **Organisation:** Linux Kernel — EROFS Filesystem
 > **Mentors:** Yifan Zhao `@SToPire`, Chunhai Guo `@speedan1`, Gao Xiang `@hsiangkao`
-> **Org Ranking:** #1 · Not selected by Google
+> **Outcome:** Not selected by Google
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Org_Ranking-%231_by_EROFS-22C55E?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSoC_2026-Proposal_Submitted-0EA5E9?style=flat-square&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Decision-Not_Selected-6B7280?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pre--GSoC_Patch-MERGED_✓-22C55E?style=flat-square&logo=git&logoColor=white"/>
 </div>
@@ -354,7 +354,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
 <div align="center">
 
 <img src="https://img.shields.io/badge/Kernel_Patch-MERGED_d6d0b8a-22C55E?style=for-the-badge&labelColor=0f172a" alt="Patch Merged"/>
-<img src="https://img.shields.io/badge/GSoC_2026-Ranked_%231_by_Org-F97316?style=for-the-badge&labelColor=0f172a" alt="GSoC"/>
+<img src="https://img.shields.io/badge/GSoC_2026-Proposal_Submitted-F97316?style=for-the-badge&labelColor=0f172a" alt="GSoC"/>
 <img src="https://img.shields.io/badge/Speedup_Target-3–4×_on_4_Cores-22C55E?style=for-the-badge&labelColor=0f172a" alt="Speedup"/>
 <img src="https://img.shields.io/badge/Project_Size-350_Hours-0EA5E9?style=for-the-badge&labelColor=0f172a" alt="Hours"/>
 <img src="https://img.shields.io/badge/Open_Source-Turborepo_%26_GoFr-EC4899?style=for-the-badge&labelColor=0f172a" alt="OSS"/>
@@ -385,7 +385,7 @@ One hard Bitcoin project challenge per week, evaluated against a competitive per
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/GSoC_2026-Ranked_%231_by_EROFS_Org-F97316?style=flat-square&logo=linux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GSoC_2026-Proposal_Submitted_to_EROFS-F97316?style=flat-square&logo=linux&logoColor=white"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Status-Not_Selected_by_Google-6B7280?style=flat-square&logo=google&logoColor=white"/>
     </td>
